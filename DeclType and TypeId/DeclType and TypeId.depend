@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1540904847 source:f:\c++ project\advanced c++\decltype and typeid\main.cpp
+	<iostream>
+	<typeinfo>
+

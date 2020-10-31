@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="template class/template class.cbp" />
+		<Project filename="DeclType and TypeId/DeclType and TypeId.cbp" />
+		<Project filename="The auto keyword/The auto keyword.cbp" />
+		<Project filename="mutable lambda/mutable lambda.cbp" />
+		<Project filename="delegrating constructors/delegrating constructors.cbp" />
+		<Project filename="unique_ptr/unique_ptr.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>
