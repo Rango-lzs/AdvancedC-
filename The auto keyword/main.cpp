@@ -13,5 +13,7 @@ int main()
     auto str="hello";
     cout<<text(8);
 
+   cout<<"add test code";
+
     return 0;
 }
